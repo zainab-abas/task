@@ -1,0 +1,98 @@
+.pading{
+  padding-top: 50px;
+}
+.navbar-light .navbar-nav .nav-link {
+  color: rgba(0,51,102, 0.5);
+}
+
+a:hover{
+  background-color: rgba(238,238,238, 0.5);
+}
+
+
+
+
+.img{
+  height: 500px;
+}
+.text{
+  text-align: center;
+  font-style: italic;
+}
+
+#info{
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin: 20px;
+}
+
+
+#device{
+  background-color: #f5f6fa;
+  padding: 30px;
+} 
+
+#team{
+  padding-top: 30px;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.footer{
+  color: white;
+  background-color: #4F5658;
+  padding-top: 40px;
+  padding-bottom: 30px;
+}
+
+#sign{
+	padding: 30px;
+	background-color: #636e72 ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#loading {
+	background-color: #d14149;
+	height: 100%;
+	width: 100%;
+	position: fixed;
+	z-index: 1;
+	margin-top: 0px;
+	top: 0px;
+	left: 0;
+	z-index: 9999;
+}
+
+#loading-center {
+	width: 100%;
+	height: 100%;
+	position: relative;
+}
+
+#loading-center-absolute {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	height: 150px;
+	width: 150px;
+	margin-top: -75px;
+	margin-left: -75px;
+	-ms-transform: rotate(45deg);
+	-webkit-transform: rotate(45deg);
+	transform: rotate(45deg);
+
+}
+
+
+
